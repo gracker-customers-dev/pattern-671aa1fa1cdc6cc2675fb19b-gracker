@@ -3,31 +3,31 @@ projectName: >-
   <target_audience>
 jsonFilePath: ./input.json
 baseUrl: sun.com
-portalHeading: Transform Your Cybersecurity Marketing with GrackerAI
+portalHeading: 'GrackerAI: Your AI-driven Growth Engine'
 portalDescription: >-
   World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
   prospects, demonstrate expertise, and fuel expansion through customized,
   data-backed content strategies.
 portalTitle: 'Boost Brand Authority & Leads: GrackerAI for Cybersecurity SaaS'
-searchPlaceholder: Search for insights and strategies
+searchPlaceholder: Search for cybersecurity solutions...
 useAlphabetsCategory: true
 homeLink: sun.com
 logoLink: /
 ctaText: Get Started
 aboutLink: https://gracker.ai/about/
-productsLink: https://gracker.ai/features/
+productsLink: https://gracker.ai/tools/
 logoImgUrl: https://gracker.ai/_astro/logo-white.DuNP12gY_Z22gpAz.svg
 ctaLink: https://portal.gracker.ai/
 copyrightText: >-
-  &copy; Copyright 2024, Gracker. Made with <svg
+  &copy; Copyright 2024, Gracker. Made with <span><svg
   xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler
   icon-tabler-heart-filled icon text-red" width="16" height="16" viewBox="0 0 24
   24" stroke-width="1.5" stroke="currentColor" fill="none"
-  stroke-linecap="round" stroke-linejoin="round"> <path d="M6.979 3.074a6 6 0 0
-  1 4.988 1.425l.037 .033l.034 -.03a6 6 0 0 1 4.733 -1.44l.246 .036a6 6 0 0 1
+  stroke-linecap="round" stroke-linejoin="round"><path d="M6.979 3.074a6 6 0 0 1
+  4.988 1.425l.037 .033l.034 -.03a6 6 0 0 1 4.733 -1.44l.246 .036a6 6 0 0 1
   3.364 10.008l-.18 .185l-.048 .041l-7.45 7.379a1 1 0 0 1 -1.313 .082l-.094
   -.082l-7.493 -7.422a6 6 0 0 1 3.176 -10.215z" stroke-width="0"
-  fill="currentColor"></path> </svg> in San Francisco
+  fill="currentColor"></path></svg></span> in San Francisco
 faviconUrl: /favicon.ico
 googleTagManagerId: GTM-MB8NQN6
 pagesTitle:
@@ -51,18 +51,18 @@ socialLinks:
   - platform: Instagram
     url: https://www.instagram.com/grackerai/
 theme:
-  primaryColor: '#000000'
-  secondaryColor: '#ffffff'
-  backgroundColor: '#f3f3f3'
-  textColor: '#333333'
-  accentColor: '#ff0000'
+  primaryColor: '#ff5733'
+  secondaryColor: '#333333'
+  backgroundColor: '#ffffff'
+  textColor: '#000000'
+  accentColor: '#ffcc00'
 fonts:
-  - family: Poppins
+  - family: Bricolage Grotesque
     weights:
       - 400
       - 500
       - 600
-  - family: Inter
+  - family: Poppins
     weights:
       - 400
       - 500
